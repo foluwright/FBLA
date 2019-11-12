@@ -1,0 +1,32 @@
+﻿body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/*
+#home-header {
+    background-size: cover;
+    background-position: center;
+    background-image: url("../img/header2.jpg");
+}*/
+
+@media (max-width: 900px), (max-height: 700px) {
+   
+}
+#home-header .col, #home-header .col-lg-12 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    position: relative;
+}
+
+/*Welcome*/
+#intro {
+    font-family: 'Bangers','Helvetica Neue',Arial,sans-serif;
+    letter-spacing: 1px;
+}
+
+#intro {
+    background-size: cover;
+    background-position: center;
+    background-image: url("../img/welcome.jpg");
+}
